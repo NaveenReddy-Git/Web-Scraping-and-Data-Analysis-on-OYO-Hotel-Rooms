@@ -7,7 +7,7 @@
 * Write the code the store the data in the required format.
 
 
-##### Life Cycle of the Data Analyst Project:
+## Life Cycle of the Data Analyst Project:
 
 *  1) Business Understanding (Understand the Business functionalities beofore we go furthur)
 *  2) Data Requirement (Should know important variables)
