@@ -15,6 +15,8 @@
 *  4) Data Cleaning ( Missing Data, Pre processing) 
 *  5) Data Analysis (EDA) to know insight about data 
 
+## Problem statement :
+  Based on my analysis, I want to show which is the budgetfriendly city with all features to book OYO Rooms.
 
 ##  I have shown the data acoording to this questions in Univariate Analysis ,Bivariate and Multivariate Analysis!!
 * Which is the highest Review?
@@ -56,4 +58,5 @@
 * import time
 * from IPython.core.interactiveshell import InteractiveShell
 * InteractiveShell.ast_node_interactivity = 'all'
-
+## Conclusion:
+  According to  my analysis based on all the graphs the city Banglore is referred as good than compared to city Hyderabad and Mumbai to book OYO hotel rooms.
