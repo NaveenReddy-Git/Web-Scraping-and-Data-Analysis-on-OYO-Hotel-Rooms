@@ -1,0 +1,290 @@
+,index,Hotelname,Address,OfferPrice,OriginalPrice,OfferPercentage,Facilities,City_Name,Rating,Reviews,Location,AC_Availability,Wifi_Availability
+0,194,Capital O 80202 Hotel Saineel,"India, Mumbai",1450.0,2998.0,51.0, Reception  CCTV Cameras  Daily Housekeeping  + 8 more,Mumbai,5.0,Fabulous,India,No,No
+1,33,OYO 10363 Sri Balaji Guest House & Restaurent,"Near Bata, Wilson Garden, Bangalore",1014.0,2096.0,51.0, Doctor on Call  Reception  Ticket Tour Assistance  + 23 more,Bangalore,4.9,Fabulous, Wilson Garden,No,No
+2,560,OYO HOME 79924 PRAMOD PRIME HOMES,"nagole, Hyderabad",1014.0,2131.0,52.0, Free Wifi  TV  AC ,Hyderabad,4.9,Fabulous,nagole,Yes,Yes
+3,42,OYO 38397 Kucheria Vatika,"Near Jawahar Nagar Colony, Ramgopalpet, Hyderabad",1351.0,3828.0,64.0, Parking Facility  Reception  Free Wifi  + 13 more,Hyderabad,4.9,Fabulous, Ramgopalpet,No,Yes
+4,150,OYO BLR2467 Urban Inn,"India, Bangalore",1234.0,2570.0,51.0, Hair Dryer  Reception  Free Wifi  + 11 more,Bangalore,4.8,Excellent,India,No,Yes
+5,170,OYO 30744 The  Gate,"Near Life Style, Begumpet, Hyderabad",1363.0,3563.0,61.0, Reception  Power backup  Security  + 11 more,Hyderabad,4.8,Excellent, Begumpet,No,No
+6,46,OYO 70822 Pnd Complex,"Balapur X road, Hyderabad",1216.0,3341.0,63.0, Elevator  Reception  Free Wifi  + 9 more,Hyderabad,4.8,Excellent,Balapur X road,No,Yes
+7,550,OYO Townhouse 007 Indiranagar,"12TH MAIN RD,HAL 2ND STAGE ,INDIRANAGAR,BANGALORE",1587.0,3864.0,58.0, Living Room  Bedside Table / Desk  Refrigerator  + 31 more,Bangalore,4.8,Excellent,INDIRANAGAR,No,No
+8,263,Capital O 37517 Withinn Hotel,"Near NIAS, Mathikere Extension, Bangalore",1298.0,2908.0,55.0, Parking Facility  Reception  Free Wifi  + 14 more,Bangalore,4.8,Excellent, Mathikere Extension,No,Yes
+9,26,OYO 81248 Blooms Residency,"India, Bangalore",1216.0,2352.0,48.0, Doctor on Call  Hair Dryer  Parking Facility  + 18 more,Bangalore,4.8,Excellent,India,No,No
+10,374,OYO 3630 Hotel Ajwa,"Near Asalpha Metro Station, Mumbai",1445.0,3130.0,53.0, Private Entrance  Hair Dryer  Reception  + 18 more,Mumbai,4.8,Excellent,Near Asalpha Metro Station,No,No
+11,297,OYO Townhouse RCC Majestic 397 LB Nagar,"Champapet, Hyderabad",1014.0,2466.0,58.0, Parking Facility  Free Wifi  AC  + 5 more,Hyderabad,4.8,Excellent,Champapet,Yes,Yes
+12,117,CAPITAL O 15141 Townvilla Guest House,"Near Indo US Super Speciality Hospital, Ameerpet, Hyderabad",1485.0,3505.0,57.0, Free Wifi  Geyser  Power backup  + 6 more,Hyderabad,4.7,Excellent, Ameerpet,No,Yes
+13,421,OYO 66785 Hotel Oyster Suites,"Andheri West, Mumbai",1453.0,4048.0,64.0, Doctor on Call  Reception  Ticket Tour Assistance  + 11 more,Mumbai,4.7,Excellent,Andheri West,No,No
+14,273,OYO 79869 Grand Comfort,"Bangalore Urban, Bangalore",1381.0,2629.0,47.0, Free Wifi  TV  AC ,Bangalore,4.7,Excellent,Bangalore Urban,Yes,Yes
+15,206,SPOT ON 47801 S.G Comforts,"Near State Bank Of India, M S K Nagar, Bangalore",1014.0,2061.0,50.0, Twin Single Bed  Reception  Power backup  + 23 more,Bangalore,4.7,Excellent, M S K Nagar,No,No
+16,203,CAPITAL O 23461 Champion Lotus,"Near IIFT, Vijayanagar, Bangalore",1226.0,2433.0,49.0, Reception  Power backup  Security  + 22 more,Bangalore,4.7,Excellent, Vijayanagar,No,No
+17,343,OYO 9936 Elite Inn,"Near Chitta Reddy colony, Tadbund, Hyderabad",1405.0,2905.0,51.0, Elevator  Free Wifi  Geyser  + 7 more,Hyderabad,4.6,Excellent, Tadbund,No,Yes
+18,274,OYO 2318 Hotel Tiara,"Lexington Towers, 63 St.Johns Woods Apts & Oracle, Tavarekere Main Rd",1014.0,2039.0,50.0, Parking Facility  Reception  Free Wifi  + 17 more,Bangalore,4.6,Excellent, 63 St.Johns Woods Apts & Oracle,No,Yes
+19,441,Capital O 12543 3 Square,"Next to Cafe Coffee Day, HBR Layout, Bangalore",1377.0,2622.0,47.0, Elevator  Free Wifi  Geyser  + 6 more,Bangalore,4.6,Excellent, HBR Layout,No,Yes
+20,589,Collection O 12684 Compact Green View,"Near Ejipura Bus stand, Ashwini Layout, Bangalore",1255.0,2622.0,52.0, Parking Facility  Free Wifi  CCTV Cameras  + 6 more,Bangalore,4.6,Excellent, Ashwini Layout,No,Yes
+21,455,OYO 4691 Sai Comforts,"Mathikere, Bangalore",1386.0,3410.0,59.0, Elevator  Free Wifi  Geyser  + 8 more,Bangalore,4.6,Excellent,Mathikere,No,Yes
+22,447,OYO 78266 Collection O Sathyajyothi Comforts,"Girinagar, Bangalore",1014.0,2286.0,55.0, Reception  Free Wifi  Power backup  + 12 more,Bangalore,4.5,Excellent,Girinagar,No,Yes
+23,510,SPOT ON 75492 The Royal Comfort,"Near Priyadarshini Restaurant, Yeswanthpur, Bangalore",1406.0,2678.0,47.0, TV  AC  AC  + 1 more,Bangalore,4.5,Excellent, Yeswanthpur,Yes,No
+24,110,OYO 13300 Hotel New Platinum,"Saleemnagar Colony, Malakpet, Hyderabad",1014.0,2887.0,64.0, Elevator  Free Wifi  Geyser  + 8 more,Hyderabad,4.5,Excellent, Malakpet,No,Yes
+25,109,SPOT ON 48871 AY Hotel,"Centrally Located, Near HDFC Bank ATM, Charminar, Hyderabad",907.0,1883.0,51.0, TV  Reception  Free Wifi  + 9 more,Hyderabad,4.5,Excellent, Charminar,No,Yes
+26,101,SPOT ON 43890 Kaveri Lodge,"Near Kamineni Hospital, L.B.Nagar, Hyderabad",955.0,1819.0,47.0, Parking Facility  Reception  Daily Housekeeping  + 7 more,Hyderabad,4.5,Excellent, L.B.Nagar,No,No
+27,11,OYO 65661 Hotel Emerald Inn ,"Near Sakinaka metro station, Asalfa, Mumbai",1216.0,2990.0,59.0, AC  TV ,Mumbai,4.5,Excellent, Asalfa,Yes,No
+28,89,OYO Townhouse 387 Grand Vista Koramangala ,"Karnataka 560095, Bangalore",1423.0,3069.0,53.0, Parking Facility  Reception  Free Wifi  + 14 more,Bangalore,4.5,Excellent,Karnataka 560095,No,Yes
+29,552,OYO 79223 Exotic Stay BSK 3rd Stage,"South, Bangalore",1423.0,2711.0,47.0, Elevator  Private Entrance  Free Wifi  + 6 more,Bangalore,4.5,Excellent,South,No,Yes
+30,208,OYO 63230 Exotica Hotels,"Near Jayadeva Flyover, BTM Layout, Bangalore",1014.0,2156.0,52.0, Private Entrance  Reception  Free Wifi  + 14 more,Bangalore,4.5,Excellent, BTM Layout,No,Yes
+31,541,SPOT ON 63862 Delhi Yatri Nivaas ,"Near Kr Market Metro, Vaisakhi Buildings, Bangalore",1014.0,1931.0,47.0, TV  Private Entrance  Reception  + 18 more,Bangalore,4.5,Excellent, Vaisakhi Buildings,No,No
+32,513,OYO 3974 Hotel Bcp Royal Residency,"Near Race Course, 6th A Cross, Bangalore",1350.0,2808.0,51.0, Parking Facility  Free Wifi  Power backup  + 15 more,Bangalore,4.5,Excellent, 6th A Cross,No,Yes
+33,56,OYO 81097 SilverKey Halcyon Magnus,"Sanath Nagar, Hyderabad",1014.0,1999.0,49.0, AC  TV  Queen Sized Bed  + 2 more,Hyderabad,4.5,Excellent,Sanath Nagar,Yes,No
+34,498,OYO 78918 Leva Homes,"Mahadevapura Zone, Bangalore",1285.0,2448.0,47.0, Elevator  Private Entrance  Free Wifi  + 7 more,Bangalore,4.5,Excellent,Mahadevapura Zone,No,Yes
+35,327,OYO 18680 Olivia Comforts,"Near Eat Street, Kormangala, Bangalore",1330.0,2532.0,47.0, Reception  Free Wifi  Power backup  + 18 more,Bangalore,4.5,Excellent, Kormangala,No,Yes
+36,406,OYO 18431 Hotel Celestee Grand,"Nampally, Hyderabad",1145.0,2617.0,56.0, Elevator  Free Wifi  Geyser  + 6 more,Hyderabad,4.5,Excellent,Nampally,No,Yes
+37,336,SPOT ON 46264 M K Grande,"Near 140 Cottonpet Main road, Majestic, Bangalore",989.0,1884.0,47.0, AC  TV  Parking Facility  + 6 more,Bangalore,4.5,Excellent, Majestic,Yes,No
+38,503,OYO 378 Aira Apartments,"HAL Airport Road, Kodihalli Extension, Bangalore",1579.0,3007.0,47.0, Elevator  Parking Facility  Free Wifi  + 4 more,Bangalore,4.5,Excellent, Kodihalli Extension,No,Yes
+39,291,OYO 76333 Shannu Residency,"4th floor,  7-2-606, Retreat Point, Adj Yes Bank, Citylight X Roads,  RP Road - Secunderabad, TS - 500015",1418.0,2701.0,47.0, Reception  Free Wifi  Caretaker  + 14 more,Hyderabad,4.4,Very Good,  RP Road - Secunderabad,No,Yes
+40,471,OYO 68409 Dera Guest House,"Near LB Stadium, Fateh Maidan, Abids, Hyderabad",1414.0,2692.0,47.0, Parking Facility  Reception  Free Wifi  + 11 more,Hyderabad,4.4,Very Good, Abids,No,Yes
+41,415,OYO 67479 Alpine Glow Zenith,"Near Malani Colony, Bowenpally, Hyderabad",1014.0,2121.0,52.0, Reception  Free Wifi  Power backup  + 12 more,Hyderabad,4.4,Very Good, Bowenpally,No,Yes
+42,572,OYO Townhouse 180 Jayanagar,"Near Sagar Hospital, Tilak Nagar, Bangalore",1554.0,2959.0,47.0, Free Wifi  AC  TV  + 4 more,Bangalore,4.4,Very Good, Tilak Nagar,Yes,Yes
+43,151,SPOT ON 67398 Hotel  Shree Pawan Paradise,"Near Cotton Pete Police Station, Bangalore",697.0,1650.0,57.0, TV  Parking Facility  Reception  + 11 more,Bangalore,4.4,Very Good,Near Cotton Pete Police Station,No,No
+44,166,OYO Home 79961 Comfortable Stays,"Hyderabad, Hyderabad",1353.0,2577.0,47.0, Free Wifi  AC  TV  + 1 more,Hyderabad,4.4,Very Good,Hyderabad,Yes,Yes
+45,562,OYO 30750 M R Residency,"Near Railway station, Secunderabad, Hyderabad",1146.0,2981.0,61.0, Private Entrance  Reception  Power backup  + 32 more,Hyderabad,4.4,Very Good, Secunderabad,No,No
+46,171,OYO Townhouse RCC Elite 265 Begumpet,"Opp to Js babu silks., Hyderabad",1396.0,2994.0,53.0, Reception  Caretaker  Power backup  + 23 more,Hyderabad,4.4,Very Good,Opp to Js babu silks.,No,No
+47,173,OYO 69510 Hotel 3m,"Near Nampally Metro Station, Hyderabad",917.0,3046.0,69.0, Private Entrance  Reception  Free Wifi  + 15 more,Hyderabad,4.4,Very Good,Near Nampally Metro Station,No,Yes
+48,351,Collection O 80456 Vanasthalipuram,"LB Nagar, Hyderabad",1432.0,2728.0,47.0, Elevator  Free Wifi  CCTV Cameras  + 5 more,Hyderabad,4.4,Very Good,LB Nagar,No,Yes
+49,200,OYO 62331 GN Collection O,"Centrally Located, Near A D Halli Park, Housing Board, Bangalore",1460.0,3081.0,52.0, Reception  Free Wifi  Power backup  + 15 more,Bangalore,4.4,Very Good, Housing Board,No,Yes
+50,289,OYO 71922 AB7 Residency,"India, Hyderabad",1300.0,2475.0,47.0, Elevator  Reception  Free Wifi  + 8 more,Hyderabad,4.4,Very Good,India,No,Yes
+51,556,OYO 79040 Hotel Sai Prakash,"Hyderabad, Hyderabad",1091.0,2564.0,57.0, Ticket Tour Assistance  Reception  Security  + 11 more,Hyderabad,4.4,Very Good,Hyderabad,No,No
+52,219,OYO Flagship 16105 Majestic,"Near Majestic Railway Station, Akkipete, Bangalore",1014.0,2364.0,57.0, Reception  Free Wifi  Power backup  + 9 more,Bangalore,4.4,Very Good, Akkipete,No,Yes
+53,222,OYO 79447 Ragas Homes ,"LB Nagar, Near Metro Station, Beside Zoom Lab, Hyderabad",1014.0,2484.0,59.0, Reception  Ticket Tour Assistance  Security  + 10 more,Hyderabad,4.4,Very Good, Beside Zoom Lab,No,No
+54,249,OYO 42009 Hotel A One Suite,"Near METRO STATION, Asalpha, Mumbai",1311.0,2856.0,54.0, Reception  Free Wifi  24/7 Checkin  + 17 more,Mumbai,4.4,Very Good, Asalpha,No,Yes
+55,114,SPOT ON 37214 Classic Lodge,"Near Board Of Intermediate Office, Hyderabad",718.0,1367.0,47.0, AC  Parking Facility  Elevator  + 8 more,Hyderabad,4.4,Very Good,Near Board Of Intermediate Office,Yes,No
+56,528,OYO Flagship 75583 Thatipally Mansion,"Near Omni hospital, Mohan Nagar, Hyderabad",1216.0,2453.0,50.0, Reception  Free Wifi  Power backup  + 10 more,Hyderabad,4.4,Very Good, Mohan Nagar,No,Yes
+57,322,CAPITAL O75271 Nandhana Hometel,"Near Domlur Flyover Junction, ISRO Colony, Bangalore",1442.0,2747.0,47.0, Living Room  Reception  Washing Machine  + 78 more,Bangalore,4.4,Very Good, ISRO Colony,No,No
+58,287,OYO 40166 Hotel My Choice,"Near Karachi Bakery, Malakunta, Hyderabad",1216.0,2315.0,47.0, Reception  Free Wifi  24/7 Checkin  + 12 more,Hyderabad,4.4,Very Good, Malakunta,No,Yes
+59,262,OYO 12761 High Street,"Near Kalyan silks commercial street, Bangalore",1264.0,3433.0,63.0, Free Wifi  Power backup  Card Payment  + 13 more,Bangalore,4.4,Very Good,Near Kalyan silks commercial street,No,Yes
+60,277,Capital O 68975 The Blueberry's,"Near Forum Mall, 4th Cross Rd, Bangalore",1263.0,3043.0,58.0, Reception  Free Wifi  Daily Housekeeping  + 9 more,Bangalore,4.4,Very Good, 4th Cross Rd,No,Yes
+61,52,OYO 16428 Hotel Comfort Inn,"Near Mahatma Gandhi Road, Rani Ganj, Hyderabad",1282.0,2441.0,47.0, Free Wifi  Power backup  Card Payment  + 14 more,Hyderabad,4.4,Very Good, Rani Ganj,No,Yes
+62,81,OYO 15392 Sri Sai Guru Comforts,"Near Kodigihalli Gate, Byatarayanapura, Bangalore",1229.0,2591.0,52.0, Free Wifi  Power backup  Card Payment  + 19 more,Bangalore,4.4,Very Good, Byatarayanapura,No,Yes
+63,105,OYO FLAGSHIP 76687 Ramoji Kothapet,"Kothapet, Hyderabad",1338.0,2548.0,47.0, Private Entrance  Reception  Free Wifi  + 13 more,Hyderabad,4.4,Very Good,Kothapet,No,Yes
+64,85,OYO 9253 Champion Comfort,"Near Sarvodaya College of Nursing, Magadi Rd, Bangalore",1477.0,3218.0,54.0, Parking Facility  Free Wifi  Power backup  + 11 more,Bangalore,4.3,Very Good, Magadi Rd,No,Yes
+65,79,Capital O 80005 Hotel Prime Land,"Near Maharashtra Weight Bridge Sion West, Mumbai",1579.0,3455.0,54.0, Reception  Caretaker  Security  + 16 more,Mumbai,4.3,Very Good,Near Maharashtra Weight Bridge Sion West,No,No
+66,370,OYO 28751 Aadya International,"Near Marol Naka metro station, Navpada, Mumbai",1327.0,4076.0,67.0, Free Wifi  Geyser  CCTV Cameras  + 5 more,Mumbai,4.3,Very Good, Navpada,No,Yes
+67,43,Silverkey Executive Stays 22453 Himayat Nagar Circle,"Near Narayanguda Road, Vittalwadi, Hyderabad",1462.0,2784.0,47.0, Private Entrance  Hair Dryer  Reception  + 17 more,Hyderabad,4.3,Very Good, Vittalwadi,No,No
+68,235,OYO 37499 Saba Service Apartments,"Near Mecca Masjid, Old City, Hyderabad",1282.0,2530.0,49.0, Reception  Free Wifi  Refrigerator  + 15 more,Hyderabad,4.3,Very Good, Old City,No,Yes
+69,69,Collection O 81162 Hotel Whitefield,"Zone 3, Mumbai",1446.0,2754.0,47.0, Parking Facility  Reception  Free Wifi  + 10 more,Mumbai,4.3,Very Good,Zone 3,No,Yes
+70,53,Capital O 23543 Hotel Vaishnavi,"Near Csi Wesley Church, Paras Towers, Hyderabad",1501.0,2859.0,47.0, Reception  AC  Daily Housekeeping  + 8 more,Hyderabad,4.3,Very Good, Paras Towers,Yes,No
+71,205,OYO 18544 Amm Residency,"Mavalli, Bengaluru",1180.0,2697.0,56.0, Parking Facility  Free Wifi  Twin Single Bed  + 10 more,Bangalore,4.3,Very Good,Mavalli,No,Yes
+72,478,OYO 26883 Vasundhara Guest House,"Near Bombay Hotel, Hyderabad",1377.0,2622.0,47.0, Reception  Free Wifi  Power backup  + 13 more,Hyderabad,4.3,Very Good,Near Bombay Hotel,No,Yes
+73,380,Capital O 74657 Nandhana Regent,"Near Koramangala Rto, Bda Complex, Bangalore",1216.0,2315.0,47.0, Cot  AC  Bedside Table / Desk  + 5 more,Bangalore,4.3,Very Good, Bda Complex,Yes,No
+74,159,OYO Townhouse 078 Dodda Banaswadi,"Near Udupi Upachar, Lakshmamma Layout, Bangalore",1361.0,2592.0,47.0, Reception  Free Wifi  Power backup  + 16 more,Bangalore,4.3,Very Good, Lakshmamma Layout,No,Yes
+75,459,OYO 79879 Elite Stays JP Nagar,"Bommanahalli Zone, Bangalore",903.0,1719.0,47.0, Parking Facility  Elevator  Private Entrance  + 7 more,Bangalore,4.3,Very Good,Bommanahalli Zone,No,No
+76,49,OYO 22907 Hotel Holiday,"Near Rani Gunj X road, Secundrabad, Hyderabad",1249.0,2379.0,47.0, Reception  Free Wifi  Power backup  + 13 more,Hyderabad,4.3,Very Good, Secundrabad,No,Yes
+77,450,Capital O 49646 Hotel Champion Paradise,"Near V.E.T School, J.P. Nagar, Bangalore",1331.0,2674.0,50.0, Parking Facility  Reception  Free Wifi  + 16 more,Bangalore,4.3,Very Good, J.P. Nagar,No,Yes
+78,312,OYO 36061 Om Residency ,"Near Ganesh nagar, Marol, Mumbai",895.0,3286.0,72.0, Hair Dryer  Reception  Free Wifi  + 20 more,Mumbai,4.3,Very Good, Marol,No,Yes
+79,338,Capital O 19360 Sai Suites Inn,"Near Kanaka Nagar, Nagavara, Bangalore",1299.0,2969.0,56.0, Parking Facility  Reception  Free Wifi  + 18 more,Bangalore,4.3,Very Good, Nagavara,No,Yes
+80,535,Capital O 70991 Prime Square,"Centrally Located, Near Kalyan Nagar Bus Stand, 1st stage, Bangalore",1336.0,2686.0,50.0, Free Wifi  Power backup  Card Payment  + 10 more,Bangalore,4.3,Very Good, 1st stage,No,Yes
+81,131,Capital O 12043 Hotel Konak,"Near Shughun Hospital, Marol, Mumbai",1250.0,3395.0,63.0, Elevator  Free Wifi  Geyser  + 7 more,Mumbai,4.3,Very Good, Marol,No,Yes
+82,121,Collection O 50232 ULIFE HOTEL,"Near marol metro station , Saki Vihar, Mumbai",1547.0,2947.0,47.0, Private Entrance  Reception  Power backup  + 24 more,Mumbai,4.3,Very Good, Saki Vihar,No,No
+83,331,OYO 80044 Royal Wood Deluxe,"India, Bangalore",1014.0,2459.0,58.0, Reception  Caretaker  Security  + 22 more,Bangalore,4.3,Very Good,India,No,No
+84,587,OYO 13933 Varcity Pearl,"Near Forum Mall, Koramangala, Bangalore",1216.0,2315.0,47.0, Elevator  Free Wifi  Geyser  + 5 more,Bangalore,4.3,Very Good, Koramangala,No,Yes
+85,57,Capital O 71317 White Ridge,"Near Khazana Jewellery, Dilsukhnagar, Hyderabad",1536.0,2925.0,47.0, Elevator  Reception  Free Wifi  + 8 more,Hyderabad,4.3,Very Good, Dilsukhnagar,No,Yes
+86,507,Capital O 47538 Prime Residency,"Near Perseverance HBR, Saint Thomas Town, Bangalore",1411.0,2687.0,47.0, Hair Dryer  Parking Facility  Reception  + 19 more,Bangalore,4.3,Very Good, Saint Thomas Town,No,No
+87,368,OYO 80898 The Om Sai Residency,"India, Mumbai",1313.0,3001.0,56.0, Parking Facility  Reception  Ticket Tour Assistance  + 9 more,Mumbai,4.2,Very Good,India,No,No
+88,382,OYO 79745 My Own Nest,"Bangalore, Bangalore",1005.0,2161.0,53.0, Doctor on Call  Reception  Free Wifi  + 16 more,Bangalore,4.2,Very Good,Bangalore,No,Yes
+89,224,OYO 2840 Kanha Grand,"Near Nilofer Hospital, lakdikapul, Hyderabad",1339.0,2730.0,50.0, Elevator  Free Wifi  Power backup  + 8 more,Hyderabad,4.2,Very Good, lakdikapul,No,Yes
+90,28,OYO 78888 Elite Stays JP Nagar New,"JP Nagar 6th Phase, Bangalore",906.0,1725.0,47.0, Private Entrance  Elevator  Free Wifi  + 8 more,Bangalore,4.2,Very Good,JP Nagar 6th Phase,No,Yes
+91,226,OYO 68404 Sa Thirumala Residency,"Near VRK Silks, Himayatnagar, Hyderabad",1315.0,2699.0,51.0, Hair Dryer  Reception  Security  + 20 more,Hyderabad,4.2,Very Good, Himayatnagar,No,No
+92,402,OYO 40869 White Ridge ,"Near Sanjeevini Hospital, Kothapet road, Hyderabad",1216.0,2315.0,47.0, Reception  Free Wifi  Power backup  + 11 more,Hyderabad,4.2,Very Good, Kothapet road,No,Yes
+93,30,Capital O 715 Royal Shades,"Near Manipal Hospital, Kodihalli, Bangalore",1418.0,3241.0,56.0, AC  TV ,Bangalore,4.2,Very Good, Kodihalli,Yes,No
+94,502,Collection O 77042 Tetrad Hotel (Kanaka Grand),"Hebbal, Bangalore",1491.0,2839.0,47.0, Parking Facility  Elevator  Power backup  + 7 more,Bangalore,4.2,Very Good,Hebbal,No,No
+95,271,OYO 11097 Hotel Grand Arabian,"Dr.Ambedkar Nagar, Yeshwanthpur, Bangalore",1459.0,3283.0,55.0, Free Wifi  Geyser  Power backup  + 6 more,Bangalore,4.2,Very Good, Yeshwanthpur,No,Yes
+96,495,OYO 24259 Hotel Blue Inn,"Near Bilal masjid, Gurappanapalya, Bangalore",1216.0,2315.0,47.0, Reception  Free Wifi  Power backup  + 13 more,Bangalore,4.2,Very Good, Gurappanapalya,No,Yes
+97,348,OYO 14669 Mayur's Residency,"Near Sri Krupa Market, Malakpet, Hyderabad",1397.0,3298.0,57.0, AC  AC  TV  + 4 more,Hyderabad,4.2,Very Good, Malakpet,Yes,No
+98,298,OYO 17168 Hz Lodge,"Near Julu Khana Parking, Charminar, Hyderabad",1216.0,2512.0,51.0, Elevator  Free Wifi  Power backup  + 8 more,Hyderabad,4.2,Very Good, Charminar,No,Yes
+99,340,OYO 40852 Hotel White Ridge,"Near Dilsukhnagar metro station, Krishna Nagar, Hyderabad.",1216.0,2788.0,56.0, Parking Facility  Reception  Free Wifi  + 13 more,Hyderabad,4.2,Very Good, Krishna Nagar,No,Yes
+100,313,OYO Flagship 76610 Hotel Grandeur,"Andheri East, Mumbai",1290.0,2521.0,48.0, Reception  Free Wifi  CCTV Cameras  + 6 more,Mumbai,4.2,Very Good,Andheri East,No,Yes
+101,55,OYO 15928 Hotel Midtown,"Behind Mebaz showroom, Begumpet, Hyderabad",1371.0,3501.0,60.0, Hair Dryer  AC  AC  + 9 more,Hyderabad,4.2,Very Good, Begumpet,Yes,No
+102,278,OYO 68738 Hotel Skv Residency,"Near Apollo Phaacy, Mathikere Main Road, Bangalore",1251.0,2965.0,57.0, Parking Facility  Reception  Free Wifi  + 17 more,Bangalore,4.2,Very Good, Mathikere Main Road,No,Yes
+103,329,OYO 78898 Ezotic Stay Banaswadi,"Banasavadi, Bangalore",1366.0,2601.0,47.0, Elevator  Private Entrance  Free Wifi  + 6 more,Bangalore,4.2,Very Good,Banasavadi,No,Yes
+104,538,OYO Home 78540 Hotel,"Rajarajeshwari Nagar Zone, Bangalore",1014.0,2008.0,49.0, Parking Facility  Elevator  Private Entrance  + 8 more,Bangalore,4.2,Very Good,Rajarajeshwari Nagar Zone,No,No
+105,387,OYO Home  81332 Shiva Shakthi Inn,"Bommanahalli Zone JP Nagar Bangalore, Bangalore",928.0,1768.0,47.0, Elevator  Private Entrance  Power backup  + 5 more,Bangalore,4.2,Very Good,Bommanahalli Zone JP Nagar Bangalore,No,No
+106,160,OYO 10139 Hotel Palak Residency,"Centrally Located, Near Mosapet Flyover, Erragadda, Hyderabad",1347.0,2992.0,54.0, Elevator  Free Wifi  Geyser  + 9 more,Hyderabad,4.2,Very Good, Erragadda,No,Yes
+107,412,CAPITAL O 30955 Alpine Glow Pinnacle,"Near Veg Market, Bowenpally, Hyderabad",1252.0,2609.0,52.0, Reception  Power backup  Refrigerator  + 38 more,Hyderabad,4.2,Very Good, Bowenpally,No,No
+108,391,SPOT ON BLR2568 Blooms Inn,"3rd cross madiwala extension 1st stage Btm layout bangalore , Bangalore",987.0,1879.0,47.0, TV  Reception  CCTV Cameras  + 4 more,Bangalore,4.2,Very Good,3rd cross madiwala extension 1st stage Btm layout bangalore ,No,No
+109,149,OYO 18338 White Fort,"Dispensary Rd, Kalasipalya,Bangalore",985.0,1966.0,49.0, Parking Facility  Free Wifi  Power backup  + 14 more,Bangalore,4.2,Very Good, Kalasipalya,No,Yes
+110,540,OYO 25121 Bns Lodge,"Near Gandhi Bazaar, Main Road, Bangalore",1014.0,2239.0,54.0, Reception  Free Wifi  Power backup  + 14 more,Bangalore,4.2,Very Good, Main Road,No,Yes
+111,14,OYO 30693 Hotel Blue Executive,"On main street, Near Saki Vihar complex, Sakinaka,Mumbai",1014.0,2545.0,60.0, AC  TV  Queen Sized Bed ,Mumbai,4.2,Very Good, Sakinaka,Yes,No
+112,183,OYO 49759 Hotel Qubic ,"On main street, Near Dhanlaxmi Building, Asalpha, Mumbai",1017.0,2325.0,56.0, Reception  Free Wifi  CCTV Cameras  + 8 more,Mumbai,4.2,Very Good, Asalpha,No,Yes
+113,141,OYO 8252 Aayush Corporate Stays,"Near Maharaja Signal, Kormangala, Bangalore",1372.0,3061.0,55.0, Hair Dryer  Free Wifi  Power backup  + 13 more,Bangalore,4.2,Very Good, Kormangala,No,Yes
+114,577,OYO 79565 Royal Comforts,"Karnataka, Bangalore",1509.0,2874.0,47.0, Reception  AC  AC  + 7 more,Bangalore,4.2,Very Good,Karnataka,Yes,No
+115,132,Collection O 80640 Balaji Stays,"Marol, Mumbai",1473.0,2805.0,47.0, Private Entrance  Reception  Free Wifi  + 11 more,Mumbai,4.2,Very Good,Marol,No,Yes
+116,586,Capital O 74788 Hotel Nandhana Pride ,"Near Manyata Tech Park, Byatarayanapura, Bangalore",1467.0,2794.0,47.0, Parking Facility  Reception  Free Wifi  + 15 more,Bangalore,4.2,Very Good, Byatarayanapura,No,Yes
+117,386,OYO 38410 Hotel Hsr Comforts,"Near Yesvantpur Junction Railway Station, Bangalore",1527.0,3150.0,51.0, Reception  Free Wifi  Power backup  + 14 more,Bangalore,4.2,Very Good,Near Yesvantpur Junction Railway Station,No,Yes
+118,565,OYO 17315 Opal Residency,"Near Mahesh Nagar Colony, Abids, Hyderabad",1014.0,2292.0,55.0, Reception  Free Wifi  Power backup  + 13 more,Hyderabad,4.2,Very Good, Abids,No,Yes
+119,408,OYO 9796 Hotel Alekhya Residency,"Near Global Hospital, Saifabad, Hyderabad",1216.0,2323.0,47.0, Free Wifi  CCTV Cameras  Power backup  + 5 more,Hyderabad,4.1,Very Good, Saifabad,No,Yes
+120,167,OYO 49253 Raja Residency,"Near Raja Deluxe Complex, Musheerabad, Hyderabad",1216.0,2315.0,47.0, Private Entrance  Parking Facility  Reception  + 20 more,Hyderabad,4.1,Very Good, Musheerabad,No,No
+121,161,OYO 10272 Hotel Ruma,"Near City Convention Centre, Nampally, Hyderabad",1194.0,2729.0,56.0, Elevator  Free Wifi  Geyser  + 7 more,Hyderabad,4.1,Very Good, Nampally,No,Yes
+122,283,OYO Flagship 75243 Metro International,"High Court, Hyderabad",1291.0,2458.0,47.0, Parking Facility  Reception  Free Wifi  + 11 more,Hyderabad,4.1,Very Good,High Court,No,Yes
+123,204,OYO 10291 Sri Venkatadri Residency,"Near Maha Bazaar, Mks Square, Bangalore",1054.0,2408.0,56.0, Elevator  Free Wifi  Geyser  + 8 more,Bangalore,4.1,Very Good, Mks Square,No,Yes
+124,396,OYO 76612 Royal Inn & Suites,"Wilsongarden, Bangalore",1259.0,2457.0,48.0, Elevator  Reception  Free Wifi  + 8 more,Bangalore,4.1,Very Good,Wilsongarden,No,Yes
+125,284,OYO 6651 Hotel Srujana Stay Inn,"Opposite Public Garden Nampally, Hyderabad",1216.0,2315.0,47.0, Elevator  Free Wifi  Geyser  + 7 more,Hyderabad,4.1,Very Good,Opposite Public Garden Nampally,No,Yes
+126,443,OYO 73485 Krishna Comfort K,"Near Yeshwanthpur Railway Station, Bangalore",1216.0,2806.0,56.0, Free Wifi  Daily Housekeeping  CCTV Cameras  + 6 more,Bangalore,4.1,Very Good,Near Yeshwanthpur Railway Station,No,Yes
+127,346,SPOT ON 75390 Bhavani Rest Rooms ,"India, Hyderabad",1014.0,1998.0,49.0, Reception  Ticket Tour Assistance  Queen Sized Bed  + 6 more,Hyderabad,4.1,Very Good,India,No,No
+128,576, OYO Flagship 77088 Srinidhi Residency,"Konena Agrahara Ward, Bangalore",1014.0,2109.0,51.0, Reception  Free Wifi  Power backup  + 11 more,Bangalore,4.1,Very Good,Konena Agrahara Ward,No,Yes
+129,140,Capital O 28398 Mysore Gate,"Near Nalanda Theater, Mysore Road, Bangalore",1463.0,3063.0,52.0, Reception  Security  24/7 Checkin  + 13 more,Bangalore,4.1,Very Good, Mysore Road,No,No
+130,58,OYO 71439 Rsquare Elite,"Near Raghavendra Udupi Veg, LB Nagar, Hyderabad",993.0,2561.0,61.0, Reception  Free Wifi  Power backup  + 7 more,Hyderabad,4.1,Very Good, LB Nagar,No,Yes
+131,323,OYO 70382 Mass Residency,"Near Savoury Sea Shell, HSR Layout Sector 2, Bangalore",1013.0,2652.0,61.0, Parking Facility  Free Wifi  Power backup  + 12 more,Bangalore,4.1,Very Good, HSR Layout Sector 2,No,Yes
+132,172,OYO 70927 Hotel Hyderabad Continental,"Near Tarakarama Theatre, Sultan Bazar, Hyderabad",845.0,2169.0,61.0, TV  King Sized Bed  Dress Hanger  + 1 more,Hyderabad,4.1,Very Good, Sultan Bazar,No,No
+133,34,Capital O 67657 GN Suites,"Near Sub Registrar Office, Banaswadi, Bangalore",1251.0,2506.0,50.0, Reception  Power backup  24/7 Checkin  + 26 more,Bangalore,4.1,Very Good, Banaswadi,No,No
+134,531,OYO 63021 Hotel Hill 9,"Near Lotus Pond, Film Nagar, Hyderabad",1593.0,3234.0,50.0, Hair Dryer  Parking Facility  Reception  + 21 more,Hyderabad,4.1,Very Good, Film Nagar,No,No
+135,245,Capital O 79601 Wynd Hotel And Banquet,"Shah Ind. Estate, Saki Vihar Rd, behind Finch Restaurant, Andheri East",1564.0,3010.0,48.0, Doctor on Call  Reception  Ticket Tour Assistance  + 21 more,Mumbai,4.1,Very Good, behind Finch Restaurant,No,No
+136,357,OYO 80411 Vasu Hotel,"Opp: Sarojini devi eye hospital, P V Express pillar NO 1, Humayun nagar, Mehdipatnam road , Hyderabad 500028",1249.0,2854.0,56.0, Reception  Daily Housekeeping  AC  + 6 more,Hyderabad,4.1,Very Good, Mehdipatnam road ,Yes,No
+137,84,OYO 8116 Park Inn,"Near Empire Restaurant Indiranagar , Close to BSNL Indiranagar office .",1462.0,3342.0,56.0, Elevator  Free Wifi  Geyser  + 8 more,Bangalore,4.1,Very Good,Near Empire Restaurant Indiranagar ,No,Yes
+138,210,SPOT ON 76312 Sri Balaji Comforts,"Bangalore Urban, Bangalore",733.0,1670.0,56.0, TV  AC  Reception  + 10 more,Bangalore,4.1,Very Good,Bangalore Urban,Yes,No
+139,359,OYO 70733 Hotel Regal,"Near paradise Restaurant, M.G.Road, Ramgopalpet, HYDERABAD",997.0,1995.0,50.0, Private Entrance  Reception  Free Wifi  + 14 more,Hyderabad,4.1,Very Good, Ramgopalpet,No,Yes
+140,212,SPOT ON 65593 Yatra Inn,"Near Majestic Railway station, Lalbagh, Bangalore",709.0,1580.0,55.0, Reception  CCTV Cameras  Power backup  + 2 more,Bangalore,4.1,Very Good, Lalbagh,No,No
+141,536,CAPITAL O75134 Kings Suits,"Near Itsy Bitsy, Sector 3, Bangalore",1460.0,2781.0,47.0, Parking Facility  Reception  Free Wifi  + 7 more,Bangalore,4.1,Very Good, Sector 3,No,Yes
+142,181,OYO Flagship 76261 Lake Bloom,"Near Solaris complex, Saki Vihar, Mumbai",1417.0,2698.0,47.0, AC  AC  TV  + 1 more,Mumbai,4.1,Very Good, Saki Vihar,Yes,No
+143,217,OYO 78921 VSV Avenue Hennur,"Kacharkanahalli, Bangalore",1223.0,2329.0,47.0, Private Entrance  Free Wifi  Power backup  + 5 more,Bangalore,4.1,Very Good,Kacharkanahalli,No,Yes
+144,454,SPOT ON 78462 A Class Suites ,"India, Bangalore",1014.0,1931.0,47.0, TV  Reception  Wakeup Service  + 6 more,Bangalore,4.0,Very Good,India,No,No
+145,547,OYO 78899 Exotic Stay BG Road,"Bommanahalli Zone, Bangalore",886.0,1688.0,47.0, Elevator  Parking Facility  Free Wifi  + 6 more,Bangalore,4.0,Very Good,Bommanahalli Zone,No,Yes
+146,449,OYO 49249 Pavithraa Deluxe Suites,"Near Orion mall, Yeswanthpur, Bangalore",1429.0,3022.0,52.0, Free Wifi  Power backup  Security  + 11 more,Bangalore,4.0,Very Good, Yeswanthpur,No,Yes
+147,389,OYO 76339 Sai Orchid ,"West Zone, Bangalore",1383.0,3180.0,56.0, Reception  Free Wifi  Power backup  + 8 more,Bangalore,4.0,Very Good,West Zone,No,Yes
+148,385,OYO 25036 Suraksha Residency,"Near 6th Cross Road, Gandhi Nagar, Bangalore",1216.0,2325.0,47.0, Reception  Free Wifi  Power backup  + 11 more,Bangalore,4.0,Very Good, Gandhi Nagar,No,Yes
+149,445,Collection O 42670 Grand Continent,"Near gopalan cinemas, J.P. Nagar, Bangalore",1336.0,3038.0,56.0, Private Entrance  Reception  Free Wifi  + 12 more,Bangalore,4.0,Very Good, J.P. Nagar,No,Yes
+150,213,OYO 15695 Varcity Comforts,"Near 1st Stage, BTM Layout, Bangalore",1348.0,2567.0,47.0, Elevator  Free Wifi  Geyser  + 7 more,Bangalore,4.0,Very Good, BTM Layout,No,Yes
+151,325,Collection O  80094 Prime Rose Bellandur,"Bellandur, Bangalore",1014.0,2419.0,58.0, Private Entrance  Doctor on Call  Elevator  + 7 more,Bangalore,4.0,Very Good,Bellandur,No,No
+152,326,OYO 71720 Hotel Fiesta Grand ,"Near Mariyappa Road, Jayanagar Ward, Bangalore",1560.0,2971.0,47.0, AC  TV ,Bangalore,4.0,Very Good, Jayanagar Ward,Yes,No
+153,400,OYO 14726 Hotel Vaishnavi park,"Near Monda Market, Shivaji Nagar, Hyderabad",1014.0,2471.0,58.0, Elevator  Free Wifi  Geyser  + 7 more,Hyderabad,4.0,Very Good, Shivaji Nagar,No,Yes
+154,585,Capital O 69041 Yo Hotel,"Near SR Krishnappa Garden, Swagath Road, Bangalore",1289.0,2639.0,51.0, Reception  Free Wifi  Power backup  + 8 more,Bangalore,4.0,Very Good, Swagath Road,No,Yes
+155,234,OYO Flagship 76915 Kachiguda Station Rd,"Hyderabad., Hyderabad",1351.0,2574.0,47.0, Doctor on Call  Parking Facility  Reception  + 21 more,Hyderabad,4.0,Very Good,Hyderabad.,No,No
+156,230,OYO 29928 Royal Emirates Banjara,"Near NIMS Hospital, Punjagutta, Hyderabad",1299.0,2539.0,48.0, Parking Facility  Reception  Free Wifi  + 13 more,Hyderabad,4.0,Very Good, Punjagutta,No,Yes
+157,530,OYO 71234 Hotel Shyam ,"Near Paradise Restaurant, M.G.Road, Hyderabad",1216.0,2534.0,52.0, Reception  Free Wifi  24/7 Checkin  + 16 more,Hyderabad,4.0,Very Good, M.G.Road,No,Yes
+158,178,OYO 71244 Hotel Saba Service Apartments,"Near Yousuf Baba Dargah, Nampally mandal, Hyderabad",1216.0,2315.0,47.0, Reception  Free Wifi  TV  + 10 more,Hyderabad,4.0,Very Good, Nampally mandal,No,Yes
+159,75,Capital O 80951 Hotel Radisson Suite,"India, Mumbai",1475.0,2809.0,47.0, Doctor on Call  Reception  Caretaker  + 11 more,Mumbai,4.0,Very Good,India,No,No
+160,102,Collection O 81203 Shining Suites,"banjara nagar, ward 101 erragadda, greater Hyderabad municipal corporation central zone , Hyderabad , balanagar Mandal, near erragadda metro, Hyderabad",1014.0,2336.0,56.0, Free Wifi  Geyser  AC  + 1 more,Hyderabad,4.0,Very Good, near erragadda metro,Yes,Yes
+161,496,OYO 75391 Serenity Inn,"Near Kalyan Nagar, Jal Vayu Vihar, Bangalore",1325.0,3028.0,56.0, Daily Housekeeping  CCTV Cameras  Power backup  + 3 more,Bangalore,4.0,Very Good, Jal Vayu Vihar,No,No
+162,12,OYO 76846 Hotel Manas Residency,"Chembur East, Mumbai",1359.0,3343.0,59.0, Reception  Free Wifi  CCTV Cameras  + 6 more,Mumbai,4.0,Very Good,Chembur East,No,Yes
+163,276,OYO Home 41195 Shiva Shakthi Inn,"Near J P Nagar, 5th Phase, Bangalore",1222.0,2375.0,48.0, Free Wifi  CCTV Cameras  Power backup  + 5 more,Bangalore,4.0,Very Good, 5th Phase,No,Yes
+164,6,OYO 7407 Hotel Blue Sea,"On main street, Near Asalpha Metro Station, Ghatkopar, Mumbai",1216.0,3078.0,60.0, Free Wifi  Geyser  CCTV Cameras  + 7 more,Mumbai,4.0,Very Good, Ghatkopar,No,Yes
+165,573,SPOT ON 80376 Santa Maria,"Bangalore , Bangalore",845.0,1931.0,56.0, TV  Window  Reception  + 6 more,Bangalore,4.0,Very Good,Bangalore ,No,No
+166,238,OYO 15140 Hotel Priya Residency,"Near Raniganj, MG Road, Hyderabad",1216.0,2594.0,53.0, AC  AC  TV  + 1 more,Hyderabad,4.0,Very Good, MG Road,Yes,No
+167,349,OYO 45408 Hotel Ambassador,"Near Navodaya Hospital, SD Road, Hyderabad",1501.0,2859.0,47.0, Reception  Power backup  Refrigerator  + 44 more,Hyderabad,4.0,Very Good, SD Road,No,No
+168,286,SPOT ON 48349 Sri Sai Lohith Lodge,"Near Regional Passport Office, Shivaji Nagar, Hyderabad",744.0,1417.0,47.0, Reception  Geyser  Daily Housekeeping  + 6 more,Hyderabad,4.0,Very Good, Shivaji Nagar,No,No
+169,395,SPOT ON 72596 Royal Regency ,"Centrally Located, Near Movieland Theatre, RK Puram, Bangalore",1227.0,2337.0,47.0, TV  Parking Facility  AC  + 10 more,Bangalore,3.9,Good, RK Puram,Yes,No
+170,358,SPOT ON 68046 Rainbow Hotel,"Near KIMS Hospital, Opp James Street Railway Station, Sec'bad",999.0,1902.0,47.0, AC  Reception  King Sized Bed  + 10 more,Hyderabad,3.9,Good, Opp James Street Railway Station,Yes,No
+171,54,OYO 78865 Raga Stays ,"Beside Reliance Trends , LB Nagar Circle ,LB Nagar , Hyderabad",1014.0,2731.0,62.0, Reception  Ticket Tour Assistance  Security  + 14 more,Hyderabad,3.9,Good,LB Nagar ,No,No
+172,334,SPOT ON 68841 Ashraya Comforts,"Near Railway Hospital, Yeswanthpur, Bangalore",945.0,1799.0,47.0, Window  Reception  Geyser  + 7 more,Bangalore,3.9,Good, Yeswanthpur,No,No
+173,259,Collection O 75556 Hotel Address Inn,"Near bus top, Safed Pul, Mumbai",1507.0,2871.0,47.0, Free Wifi  AC  TV ,Mumbai,3.9,Good, Safed Pul,Yes,Yes
+174,575,SPOT ON 80165 S3 Comforts,"Diagonally opp Sri Krishna Nandagokula Hotel, Bangalore",871.0,1658.0,47.0, TV  Parking Facility  Window  + 10 more,Bangalore,3.9,Good,Diagonally opp Sri Krishna Nandagokula Hotel,No,No
+175,501,OYO 11916 Varcity Plaza,"Near Cross Road, Maruti Nagar, Bangalore",1377.0,2622.0,47.0, Elevator  Free Wifi  Geyser  + 5 more,Bangalore,3.9,Good, Maruti Nagar,No,Yes
+176,215,OYO 5590 Ujwal Residency,"Near Indian Oil Petrol Bunk, Divanarapalya, Bangalore",1216.0,3302.0,63.0, Free Wifi  Power backup  CCTV Cameras  + 7 more,Bangalore,3.9,Good, Divanarapalya,No,Yes
+177,187,OYO 24416 The United Hotel,"Near Kamani Oil Industries, Andheri East, Mumbai",1364.0,2803.0,51.0, Private Entrance  Reception  Free Wifi  + 11 more,Mumbai,3.9,Good, Andheri East,No,Yes
+178,176,OYO 4520 Hotel Central Park,"Hyderguda, Hyderabad",1303.0,2965.0,56.0, Parking Facility  Elevator  Free Wifi  + 8 more,Hyderabad,3.9,Good,Hyderguda,No,Yes
+179,23,OYO 81255 My Own Nest 2,"India, Bangalore",979.0,1902.0,48.0, Doctor on Call  Reception  Bedside Table / Desk  + 21 more,Bangalore,3.9,Good,India,No,No
+180,516,OYO 39708 Hotel Hill Park Grand,"Near DHL, Ladki Ka Pul, Hyderabad",1525.0,2905.0,47.0, Reception  Free Wifi  Power backup  + 15 more,Hyderabad,3.9,Good, Ladki Ka Pul,No,Yes
+181,165,Capital O 44585 Sri Suprabhat Grand,"Nera Venkataramana Theater, Hyderabad",1594.0,3556.0,55.0, Parking Facility  Reception  Free Wifi  + 15 more,Hyderabad,3.9,Good,Nera Venkataramana Theater,No,Yes
+182,508,OYO 28067 Shree Comforts,"Near RNS motors, Bannerghatta Road, Bangalore",1216.0,2702.0,55.0, Reception  Free Wifi  Power backup  + 17 more,Bangalore,3.9,Good, Bannerghatta Road,No,Yes
+183,248,OYO 41605 Hotel Prince Palace,"Near Kurla Police Station, Mumbai",1479.0,2986.0,50.0, Private Entrance  Free Wifi  Refrigerator  + 10 more,Mumbai,3.9,Good,Near Kurla Police Station,No,Yes
+184,86,Capital O 11092 Shiv Enclave,"Near Nagavara, Ashwath Nagar, Bangalore",1453.0,3067.0,52.0, TV  AC  Wheelchair Accessible  + 1 more,Bangalore,3.9,Good, Ashwath Nagar,Yes,No
+185,67,Capital O 70493 Hotel Crystal Inn,"Near Anjuman Khairul Islam School, Kihim, Mumbai",1423.0,2714.0,47.0, Reception  Free Wifi  Security  + 11 more,Mumbai,3.9,Good, Kihim,No,Yes
+186,473,SPOT ON 74966 Shree Amardeep Hotel,"Near Kims hospital, Pan Bazar, Hyderabad",1519.0,2892.0,47.0, TV  Parking Facility  AC  + 12 more,Hyderabad,3.9,Good, Pan Bazar,Yes,No
+187,144,OYO 3242 Hotel Status Executive Room's,"Near Old Airport Road, Bangalore",1600.0,3048.0,47.0, Parking Facility  Free Wifi  Power backup  + 12 more,Bangalore,3.9,Good,Near Old Airport Road,No,Yes
+188,462,OYO 11428 Hotel Krishna's Residency,"Near Metro Station, Lakdikapool, Hyderabad",1537.0,3102.0,50.0, Parking Facility  Elevator  Free Wifi  + 6 more,Hyderabad,3.9,Good, Lakdikapool,No,Yes
+189,61,OYO 40902 Anjali Hotel Mumbai,"Near Kanti Nagar, Andheri East, Mumbai",1229.0,3328.0,63.0, Reception  Free Wifi  Geyser  + 8 more,Mumbai,3.9,Good, Andheri East,No,Yes
+190,301,OYO 76818 Star Residency,"Taj House no.1, Shanti Nagar, Nxt to pinnacle business park, Near Onida house, Mahakali caves road, Andheri east",1469.0,3572.0,58.0, Reception  Public Washroom  Caretaker  + 11 more,Mumbai,3.9,Good, Mahakali caves road,No,No
+191,112,CAPITAL O75502 Hotel Asian International ,"Near Nampally metro station, Mahesh Nagar, Hyderabad",1384.0,3324.0,58.0, Reception  Free Wifi  24/7 Checkin  + 16 more,Hyderabad,3.9,Good, Mahesh Nagar,No,Yes
+192,448,Collection O 30067 Hotel Palmtree,"Near Halasuru Metro Station, Ulsoor, Bangalore",1394.0,2655.0,47.0, Parking Facility  Reception  Free Wifi  + 14 more,Bangalore,3.9,Good, Ulsoor,No,Yes
+193,317,OYO MUM2055 Hotel Golden Crown,"India, Mumbai",1347.0,3079.0,56.0, Parking Facility  Reception  Ticket Tour Assistance  + 20 more,Mumbai,3.9,Good,India,No,No
+194,537,OYO 10821 Sree Balaji Residency,"Agrahara Dasarahalli, Rajaji Nagar, Bangalore",1250.0,2943.0,57.0, Elevator  Free Wifi  Geyser  + 6 more,Bangalore,3.8,Good, Rajaji Nagar,No,Yes
+195,7,OYO 321 Hotel Icon,"Near Asalpha Metro Station, Asalpha, Mumbai",1014.0,2553.0,60.0, Reception  Free Wifi  Geyser  + 9 more,Mumbai,3.8,Good, Asalpha,No,Yes
+196,8,OYO 5171 Hotel Palace Residency,"Near LBS Marg, Kurla West, Mumbai",1344.0,2868.0,53.0, Free Wifi  Geyser  CCTV Cameras  + 6 more,Mumbai,3.8,Good, Kurla West,No,Yes
+197,446,Capital O 333 Hotel Crystal Homes,"Near Sony Centre, Indiranagar, Bangalore",1264.0,3014.0,58.0, Elevator  Free Wifi  Power backup  + 7 more,Bangalore,3.8,Good, Indiranagar,No,Yes
+198,509,OYO 435 Hotel Amshi International,"Near Freedom Park, Gandhi Nagar, Bangalore",1014.0,2508.0,59.0, Elevator  Free Wifi  Geyser  + 9 more,Bangalore,3.8,Good, Gandhi Nagar,No,Yes
+199,534,OYO 11915 Varcity Park,"Near SV Hospitals, Madiwala, Bangalore",1303.0,2693.0,51.0, Elevator  Free Wifi  Geyser  + 7 more,Bangalore,3.8,Good, Madiwala,No,Yes
+200,533,OYO 23323 Hotel Dove,"Near Manu Complex, Mehdipatnam Ring Road, Hyderabad",1199.0,2741.0,56.0, Parking Facility  Reception  Free Wifi  + 11 more,Hyderabad,3.8,Good, Mehdipatnam Ring Road,No,Yes
+201,444,Capital O 38666 Elmas Golden Key,"Near PVR Koramangala, 7th Block, Bangalore",1363.0,3063.0,55.0, Private Entrance  Reception  Free Wifi  + 19 more,Bangalore,3.8,Good, 7th Block,No,Yes
+202,44,Oyo Flagship 77043 Malkajgiri,"Malkajgiri, Hyderabad",1216.0,2315.0,47.0, Parking Facility  Reception  Free Wifi  + 12 more,Hyderabad,3.8,Good,Malkajgiri,No,Yes
+203,425,OYO 75467 Hotel 97,"Near Jankidevi public school, SV Patel Nagar, Mumbai",1566.0,2982.0,47.0, Reception  TV  AC  + 23 more,Mumbai,3.8,Good, SV Patel Nagar,Yes,No
+204,506,SPOT ON 39359 KRISHNAA COMFORTS,"Shivaji Nagar, Bangalore",1014.0,1978.0,48.0, Reception  Queen Sized Bed  Caretaker  + 8 more,Bangalore,3.8,Good,Shivaji Nagar,No,No
+205,466,OYO 14194 Hotel Deccan Lodging and Boarding,"Near Gokul Theater, Erragadda, Hyderabad",1404.0,2800.0,49.0, Free Wifi  Power backup  TV  + 14 more,Hyderabad,3.8,Good, Erragadda,No,Yes
+206,451,SPOT ON 71449 Ssr Lodging And Boarding,"Near Jumma masjid, Shivaji Nagar, Bangalore",1014.0,1931.0,47.0, Reception  Free Wifi  Power backup  + 7 more,Bangalore,3.8,Good, Shivaji Nagar,No,Yes
+207,404,OYO 7343 Al Shareef Palace,"Near Mir Chowk Police Station, Patthargatti, Hyderabad",1558.0,3012.0,48.0, Free Wifi  AC  TV  + 6 more,Hyderabad,3.8,Good, Patthargatti,Yes,Yes
+208,1,Collection O 50279 Golden Tulipz Boutique,"Near Kalpana Cinema Hall, Kurla West, Mumbai",1358.0,2950.0,53.0, Reception  Free Wifi  Refrigerator  + 14 more,Mumbai,3.8,Good, Kurla West,No,Yes
+209,237,Capital O 29894 Royal Emirates,"Near Apollo Hospital, Jubilee Hill, Hyderabad",1519.0,2892.0,47.0, Parking Facility  Reception  Free Wifi  + 18 more,Hyderabad,3.8,Good, Jubilee Hill,No,Yes
+210,100,Capital O 78864 Hotel Ragas,"Near Sagar Ring Road, Reddy Colony, Lb Nagar,Hyderabad",1216.0,2972.0,59.0, Elevator  Reception  AC  + 9 more,Hyderabad,3.8,Good, Lb Nagar,Yes,No
+211,246,OYO 80163 Hotel Relax Residency,"Near sakinaka metro station, opp noori masjid, andheri East",1116.0,2794.0,60.0, Hair Dryer  Reception  Ticket Tour Assistance  + 13 more,Mumbai,3.8,Good, opp noori masjid,No,No
+212,247,OYO 61623 Hotel Homestay,"Near Time Square, Mittal Industrial Estate, Mumbai",1385.0,2638.0,47.0, Hair Dryer  Reception  Free Wifi  + 13 more,Mumbai,3.8,Good, Mittal Industrial Estate,No,Yes
+213,220,SPOT ON 45433 Sree Radha Lodge,"Near Guru dwara, Shivaji Nagar, Hyderabad",1014.0,1931.0,47.0, AC  Reception  Power backup  + 6 more,Hyderabad,3.8,Good, Shivaji Nagar,Yes,No
+214,260,OYO 60746 Kings Suites,"Near Banaswadi Police Station, Hrbr Layout, Bangalore",1355.0,2827.0,52.0, AC  AC  TV  + 2 more,Bangalore,3.8,Good, Hrbr Layout,Yes,No
+215,300,Collection O 81088 Hotel West Inn ,"Zone 5, Mumbai",1347.0,2575.0,47.0, Reception  Geyser  Attached Washroom  + 24 more,Mumbai,3.8,Good,Zone 5,No,No
+216,148,SPOT ON 80454 Janapriya Lodge,"India, Bangalore",1216.0,2315.0,47.0, Parking Facility  Doctor on Call  Reception  + 7 more,Bangalore,3.8,Good,India,No,No
+217,108,SPOT ON 40974 Sai Tirumala Residency,"Near Rathifile bus stop, Regimental Bazaar, Hyderabad",1414.0,2694.0,47.0, Reception  CCTV Cameras  Security  + 4 more,Hyderabad,3.8,Good, Regimental Bazaar,No,No
+218,269,OYO 7897 Status Suites,"Near Dell Office, Inner Ring Road, Bangalore",1498.0,2852.0,47.0, Power backup  Electric Kettle  AC  + 23 more,Bangalore,3.8,Good, Inner Ring Road,Yes,No
+219,272,OYO 79873 Elegant Stay HSR Layout,"Bommanahalli Zone, Bangalore",1261.0,2401.0,47.0, Elevator  Parking Facility  Free Wifi  + 5 more,Bangalore,3.7,Good,Bommanahalli Zone,No,Yes
+220,63,Capital O 42409 Hotel Zara Grand,"Near 1Aerocity , Safed Pul, Mumbai",1014.0,1931.0,47.0, Parking Facility  Free Wifi  Power backup  + 12 more,Mumbai,3.7,Good, Safed Pul,No,Yes
+221,16,OYO 29794 A K Residency,"On main street, Near SBI, Marol, Mumbai",1014.0,2483.0,59.0, Private Entrance  Reception  Free Wifi  + 10 more,Mumbai,3.7,Good, Marol,No,Yes
+222,282,Collection O 77471 Kumar Residency Inn,"Kothapet, Hyderabad",1247.0,2375.0,47.0, Reception  Free Wifi  Power backup  + 12 more,Hyderabad,3.7,Good,Kothapet,No,Yes
+223,191,OYO 76149 Hotel Grand Inn,"Near Seven hills hospital, Marol, Mumbai",1509.0,2874.0,47.0, Reception  Free Wifi  Geyser  + 8 more,Mumbai,3.7,Good, Marol,No,Yes
+224,113,Capital O 46248 Marjan International,"Near ICICI Bank ATM, Chapel Rd, Hyderabad",845.0,3796.0,77.0, Parking Facility  Reception  Free Wifi  + 14 more,Hyderabad,3.7,Good, Chapel Rd,No,Yes
+225,15,OYO 78659 Collection O Hotel Jayshree Domestic Airport,"Vile Parle East, Mumbai",1483.0,3144.0,52.0, Private Entrance  Reception  Free Wifi  + 18 more,Mumbai,3.7,Good,Vile Parle East,No,Yes
+226,91,OYO 74308 Kings Suites,"Near MSO Colony, Maruthi Seva Nagar, Bangalore",1014.0,2837.0,64.0, AC  TV ,Bangalore,3.7,Good, Maruthi Seva Nagar,Yes,No
+227,202,Collection O 199 Tin factory,"Near Tin Factory Bus Stop, 1St Cross Rd, Bangalore",1451.0,2764.0,47.0, Free Wifi  AC  TV ,Bangalore,3.7,Good, 1St Cross Rd,Yes,Yes
+228,254,OYO 42939 Royal Orbit,"Near L&T, Saki Vihar, Mumbai",1368.0,2960.0,53.0, Parking Facility  Free Wifi  Card Payment  + 10 more,Mumbai,3.7,Good, Saki Vihar,No,Yes
+229,399,OYO 23032 Hotel Mayur Paradise,"Near Shamaro Vittal Co-Operative Bank, Bangalore",1221.0,2325.0,47.0, Parking Facility  Reception  Free Wifi  + 10 more,Bangalore,3.7,Good,Near Shamaro Vittal Co-Operative Bank,No,Yes
+230,239,OYO 62615 Hotel White House,"Near nampally metro, Devi Bagh, Hyderabad",1343.0,2874.0,53.0, Hair Dryer  Parking Facility  Reception  + 19 more,Hyderabad,3.7,Good, Devi Bagh,No,No
+231,500,OYO 10522 Varcity Emerald,"Near KEB Colony, BTM Layout 1, Bangalore",1591.0,3031.0,47.0, Reception  Free Wifi  Power backup  + 12 more,Bangalore,3.7,Good, BTM Layout 1,No,Yes
+232,518,OYO 74578 Hotel Al-Diyafa,"Beside Ramraj Cotons., Hyderabad",1515.0,2885.0,47.0, Free Wifi  Power backup  Card Payment  + 15 more,Hyderabad,3.7,Good,Beside Ramraj Cotons.,No,Yes
+233,96,OYO 74173 Shree Ganesh Regency,"Near Bus stop, Basavanagudi, Bangalore",1458.0,3332.0,56.0, TV  Parking Facility  AC  + 8 more,Bangalore,3.7,Good, Basavanagudi,Yes,No
+234,584,OYO 78310 2BHK Homes near Apollo Hospital.,"Bilekahalli, Bangalore",1416.0,2697.0,47.0, Free Wifi  CCTV Cameras  Power backup  + 2 more,Bangalore,3.7,Good,Bilekahalli,No,Yes
+235,119,OYO 48723 Shanthaa Residency Lodge,"Near Vajrala complex, Kothapet., Hyderabad",1465.0,4046.0,63.0, Reception  24/7 Checkin  AC  + 12 more,Hyderabad,3.7,Good, Kothapet.,Yes,No
+236,306,OYO 71868 The Sai Leela Residency ,"Near apna Dhabha, Kondivita, Mumbai",1379.0,3152.0,56.0, Reception  Free Wifi  CCTV Cameras  + 8 more,Mumbai,3.7,Good, Kondivita,No,Yes
+237,309,Capital O 74732 Prime Grand Hotel,"Near Asalpha metro station, Asalpha, Mumbai",1364.0,3645.0,62.0, Private Entrance  Parking Facility  Reception  + 21 more,Mumbai,3.7,Good, Asalpha,No,No
+238,168,OYO 63371 R Square Stay,"Near LB Nagar Metro Station, LB Nagar, Hyderabad",1276.0,2486.0,48.0, Reception  Daily Housekeeping  AC  + 4 more,Hyderabad,3.7,Good, LB Nagar,Yes,No
+239,120,OYO Flagship 77048 Nishita Residency,"Andheri East, Mumbai",1393.0,2652.0,47.0, Reception  Ticket Tour Assistance  Free Wifi  + 16 more,Mumbai,3.7,Good,Andheri East,No,Yes
+240,115,OYO Flagship 469 Kachiguda Railway Station,"Near Kumar Theatre, Kachiguda, Hyderabad",1480.0,2818.0,47.0, Living Room  Reception  Washing Machine  + 109 more,Hyderabad,3.7,Good, Kachiguda,No,No
+241,38,Townhouse OAK White Inn,"Koramangala, Bangalore",1495.0,2848.0,47.0, Free Wifi  Power backup  Security  + 10 more,Bangalore,3.7,Good,Koramangala,No,Yes
+242,442,Capital O 69058 Emerald Hotel,"Near Sagar Hospital, Bannerughatta, Bangalore",1424.0,2996.0,52.0, Reception  Free Wifi  Power backup  + 14 more,Bangalore,3.7,Good, Bannerughatta,No,Yes
+243,135,OYO 11015 Hotel Airside,"Near Corporation Bank, Gulab Estate, Mumbai",1516.0,2888.0,47.0, Free Wifi  Geyser  CCTV Cameras  + 5 more,Mumbai,3.7,Good, Gulab Estate,No,Yes
+244,361,OYO 43828 Hotel Zara Inn,"SV Patel Nagar, Mhada, Mumbai",1216.0,3223.0,62.0, Reception  Free Wifi  24/7 Checkin  + 11 more,Mumbai,3.7,Good, Mhada,No,Yes
+245,236,OYO 1108 Hotel Saraswathi Residency,"Near Nalanda School, S.R. Nagar, Hyderabad",1081.0,2653.0,59.0, Elevator  Free Wifi  Geyser  + 7 more,Hyderabad,3.6,Good, S.R. Nagar,No,Yes
+246,231,OYO 4376 Imax Inn,"Near Shravana Hospital, Malakunta Road, Hyderabad",1360.0,2589.0,47.0, Parking Facility  Free Wifi  Power backup  + 11 more,Hyderabad,3.6,Good, Malakunta Road,No,Yes
+247,580,OYO 9439 Sri Sai Comforts,"Near Teacher's Colony Park, Koramangala, Bangalore",1216.0,3066.0,60.0, Parking Facility  Free Wifi  Geyser  + 8 more,Bangalore,3.6,Good, Koramangala,No,Yes
+248,582,SPOT ON 80667 S.s.l.n Comforts,"Bangalore Urban, Bangalore",722.0,1375.0,47.0, Reception  Caretaker  CCTV Cameras  + 4 more,Bangalore,3.6,Good,Bangalore Urban,No,No
+249,138,OYO 76116 Hotel Sakinaka Inn,", Mumbai",1561.0,4002.0,60.0, Hair Dryer  Reception  Free Wifi  + 17 more,Mumbai,3.6,Good,,No,Yes
+250,104,OYO 37427 Hotel Pramod Prime,"Near Apollo Pharmacy, Secunderabad, Hyderabad",1045.0,3615.0,71.0, Parking Facility  Reception  Free Wifi  + 15 more,Hyderabad,3.6,Good, Secunderabad,No,Yes
+251,539,OYO Flagship  77259 The Manyta Pide Inn,"Bengaluru, Bangalore",1014.0,2169.0,53.0, Parking Facility  Private Entrance  Reception  + 13 more,Bangalore,3.6,Good,Bengaluru,No,No
+252,543,OYO Townhouse 038 Banaswadi 100Ft Road,"Kammanahalli Bangalore, Bangalore",1584.0,3017.0,47.0, Parking Facility  Reception  Free Wifi  + 17 more,Bangalore,3.6,Good,Kammanahalli Bangalore,No,Yes
+253,182,OYO 8193 Hotel Pearl View,"Near Wajan Kata Bus Stop, Indira Nagar, Mumbai",1014.0,2017.0,49.0, Free Wifi  CCTV Cameras  AC  + 6 more,Mumbai,3.6,Good, Indira Nagar,Yes,Yes
+254,29,SPOT ON 39787 Radha Krishna Deluxe Lodge,"Near Cottonpet Main Road, Bangalore",1234.0,2351.0,47.0, Elevator  Window  Daily Housekeeping  + 5 more,Bangalore,3.6,Good,Near Cottonpet Main Road,No,No
+255,62,OYO 5661 Hotel AK Palace,"On main street, Near Asalpha Metro Station, Sainaka, Mumbai",1014.0,2340.0,56.0, Free Wifi  Geyser  CCTV Cameras  + 5 more,Mumbai,3.6,Good, Sainaka,No,Yes
+256,330,OYO 18626 Diamond Paradise,"Near Taj Yeshwantpur, M S K Nagar, Bangalore",1288.0,3632.0,64.0, Free Wifi  Power backup  CCTV Cameras  + 8 more,Bangalore,3.6,Good, M S K Nagar,No,Yes
+257,512,OYO 13043 Pavithra Regency,"Near SBI Bank, RT Nagar Main Road, Bangalore",1014.0,2621.0,61.0, Hair Dryer  Free Wifi  Card Payment  + 11 more,Bangalore,3.6,Good, RT Nagar Main Road,No,Yes
+258,463,OYO 71469 Limestone Pearl,"Somajiguda, Hyderabad",1391.0,3178.0,56.0, Parking Facility  Reception  Free Wifi  + 8 more,Hyderabad,3.6,Good,Somajiguda,No,Yes
+259,311,OYO 47134 Hotel Stay Inn Palace,"Near Tolani College, Madhukunj Society, Mumbai",1280.0,2486.0,48.0, Free Wifi  Geyser  CCTV Cameras  + 9 more,Mumbai,3.6,Good, Madhukunj Society,No,Yes
+260,41,SPOT ON 47118 Pummy Lodge,"Centrally Located, Near Panjagutta Police Station,Panjagutta, Hyderabad",708.0,1953.0,63.0, AC  TV  Power backup  + 5 more,Hyderabad,3.6,Good,Panjagutta,Yes,No
+261,321,"Collection O 80882 Fortune INN, Manyata Tech Park","Nagavara, Bangalore",1216.0,2315.0,47.0, Wakeup Service  Free Wifi  Power backup  + 6 more,Bangalore,3.6,Good,Nagavara,No,Yes
+262,285,OYO 13746 Mint Leaves,"Annapurna Studios, Jubilee Hills, Hyderabad",1535.0,2924.0,47.0, Parking Facility  Free Wifi  Power backup  + 10 more,Hyderabad,3.6,Good, Jubilee Hills,No,Yes
+263,458,OYO 9605 Hotel Golden Inn,"Centrally Located, Near HKP Road, Shivaji Nagar, Bangalore",1233.0,2443.0,49.0, Elevator  Free Wifi  Geyser  + 5 more,Bangalore,3.6,Good, Shivaji Nagar,No,Yes
+264,497,OYO 17327 The Rove,"Near Bus tsop, Gururaja Layout, Bangalore",1366.0,2601.0,47.0, Parking Facility  Reception  Free Wifi  + 9 more,Bangalore,3.6,Good, Gururaja Layout,No,Yes
+265,347,OYO 46806 Sg Comforts,"Near Medwin Hospital, Abid, Hyderabad",1243.0,2710.0,54.0, Reception  Free Wifi  24/7 Checkin  + 14 more,Hyderabad,3.6,Good, Abid,No,Yes
+266,353,OYO HYD1516 Hotel Aroma Classic,"Ghosha Mahal, Hyderabad",1006.0,1917.0,47.0, Elevator  Reception  Wakeup Service  + 9 more,Hyderabad,3.6,Good,Ghosha Mahal,No,No
+267,48,SPOT ON 75815 Hotel Kanha Residency,"India, Hyderabad",892.0,1787.0,50.0, TV ,Hyderabad,3.6,Good,India,No,No
+268,388,Capital O 5381 The Emirates Hotel,"Near Total Mall, Madiwalla, Bangalore",1355.0,2581.0,47.0, Parking Facility  Free Wifi  Power backup  + 18 more,Bangalore,3.6,Good, Madiwalla,No,Yes
+269,60,OYO 5665 Rana Residency,"Tolany Naka, Sher-e-Punjab Colony, Mumbai",1218.0,3225.0,62.0, Parking Facility  Electric Kettle  Free Wifi  + 8 more,Mumbai,3.5,Good, Sher-e-Punjab Colony,No,Yes
+270,367,OYO 789 Hotel Airport Annex,"Near Twin Arcade, Andheri East, Mumbai",1410.0,4130.0,65.0, Parking Facility  Free Wifi  Card Payment  + 12 more,Mumbai,3.5,Good, Andheri East,No,Yes
+271,315,Capital O 76760 Hotel Ascot International Ii,"India, Mumbai",1446.0,3304.0,56.0, Doctor on Call  Reception  Ticket Tour Assistance  + 18 more,Mumbai,3.5,Good,India,No,No
+272,393,OYO 79202 Supreme Suite's,"Bangalore Urban, Bangalore",1272.0,2422.0,47.0, Parking Facility  Elevator  Free Wifi  + 5 more,Bangalore,3.5,Good,Bangalore Urban,No,Yes
+273,579,OYO 68189 Durga Deluxe,"Near Classic Automotive, Nagavara, Bangalore",1375.0,2671.0,48.0, Doctor on Call  Hair Dryer  Parking Facility  + 20 more,Bangalore,3.5,Good, Nagavara,No,No
+274,241,OYO 74855 Hotel Nirmal Inn,"Near Chakala Sigarette Factory, Chakala, Mumbai",1338.0,2651.0,49.0, Reception  Refrigerator  Card Payment  + 16 more,Mumbai,3.5,Good, Chakala,No,No
+275,179,SPOT ON 49298 Hotel Midland Lodge,"Centrally Located, Near Nampally Railway Station, Hyderabad",888.0,1876.0,52.0, TV  Reception  AC  + 37 more,Hyderabad,3.5,Good, Near Nampally Railway Station,Yes,No
+276,551,Capital O BLR2499 Comfort Delight Hotel ,"India, Bangalore",1408.0,2824.0,50.0, Reception  Public Washroom  Security  + 17 more,Bangalore,3.5,Good,India,No,No
+277,36,OYO 75538 Hotel Vijay,"Near Shantiniketan Educational Institute, BTM Layout, Bnagalore",1216.0,2315.0,47.0, AC  TV ,Bangalore,3.5,Good, BTM Layout,Yes,No
+278,189,OYO 7046 Hotel Guest Inn,"Near Maharashtra Weight Bridge, LBS Marg, Mumbai",902.0,2512.0,64.0, Free Wifi  Geyser  CCTV Cameras  + 5 more,Mumbai,3.5,Good, LBS Marg,No,Yes
+279,544,SPOT ON 47477 Hotel Maurya Paradise Inn,"Near Msrit, Mathikere Extension, Bangalore",778.0,2163.0,64.0, Window  Reception  Daily Housekeeping  + 6 more,Bangalore,3.5,Good, Mathikere Extension,No,No
+280,18,OYO 80506 Hotel Mahi,"Below sakinaka metro station, Andheri East",1014.0,2155.0,52.0, Reception  Security  24/7 Checkin  + 10 more,Mumbai,3.5,Good,Below sakinaka metro station,No,No
+281,279,Collection O Shri Rama Gokula,"Bangalore - 560008., Bangalore",1011.0,2309.0,56.0, Elevator  Free Wifi  CCTV Cameras  + 8 more,Bangalore,3.5,Good,Bangalore - 560008.,No,Yes
+282,72,OYO 9327 Royce Executive,"Near Kapadia Nagar, CST Road, Mumbai",1540.0,3608.0,57.0, Dress Hanger  Twin Single Bed  AC  + 24 more,Mumbai,3.5,Good, CST Road,Yes,No
+283,197,OYO 77551 Tanvi Guest House,"India, Mumbai",1351.0,2572.0,47.0, Doctor on Call  Reception  Public Washroom  + 11 more,Mumbai,3.5,Good,India,No,No
+284,90,OYO 45125 Banashankari Comforts,"Near CBI Office, Ganganagar, Bangalore",1584.0,3017.0,47.0, Power backup  24/7 Checkin  AC  + 28 more,Bangalore,3.5,Good, Ganganagar,Yes,No
+285,74,SPOT ON 65553 Star Royal,"Andheri Kurla Road, Sakinaka, Mumbai",1014.0,2116.0,52.0, AC  TV  Queen Sized Bed ,Mumbai,3.5,Good, Sakinaka,Yes,No
+286,256,OYO 8678 Hotel Golden Nest,"Near Bajsons Industries, Andheri East, Mumbai",1216.0,2956.0,58.0, Free Wifi  Geyser  CCTV Cameras  + 6 more,Mumbai,3.5,Good, Andheri East,No,Yes
+287,223,OYO 26650 R Square,"Near L B nagar D- Mart, Hyderabad",1317.0,2884.0,54.0, Reception  Free Wifi  Power backup  + 14 more,Hyderabad,3.5,Good,Near L B nagar D- Mart,No,Yes
+288,401,OYO 80837 Hotel Hyderabad Heights ,"Asifnagar mandal, Hyderabad",1437.0,2737.0,47.0, Reception  Cot  Caretaker  + 31 more,Hyderabad,3.5,Good,Asifnagar mandal,No,No
